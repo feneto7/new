@@ -1,0 +1,16 @@
+data/*
+node_modules/
+js/*
+
+!/js/client-battle.js
+!/js/client-chat-tournament.js
+!/js/client-chat.js
+!/js/client-ladder.js
+!/js/client-mainmenu.js
+!/js/client-rooms.js
+!/js/client-teambuilder.js
+!/js/client-topbar.js
+!/js/client.js
+!/js/replay-embed.template.js
+!/js/search.js
+!/js/storage.js
